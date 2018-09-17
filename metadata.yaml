@@ -1,0 +1,24 @@
+_repo: Cuestiones-politicas-y-economicas_52499
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huergo, Palemón
+    alias: Huergo, Palemon
+    gutenberg_agent_id: '46897'
+    url: http://www.gutenberg.org/2009/agents/46897
+description: ''
+gutenberg_issued: '2016-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52499'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Economic conditions'
+- !lcc 'F2801'
+- !lcsh 'Argentina -- Politics and government -- 1817-1860'
+- GITenberg
+title: Cuestiones políticas y económicas
+url: http://www.gutenberg.org/ebooks/52499
